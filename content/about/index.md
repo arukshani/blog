@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-09-01T10:49:31+05:30
-draft: true
+draft: false
 menu: "main"
 weight: 50
 ---

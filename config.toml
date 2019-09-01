@@ -50,23 +50,23 @@ theme = "hello-friend-ng"
     # alt = "Your example logo alt text"
 
 	# You can create a language based menu
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+  #  [languages.en.menu]
+  #    [[languages.en.menu.main]]
+  #      identifier = "about"
+  #      name = "About"
+  #      url = "/about"
+  #    [[languages.en.menu.main]]
+  #      identifier = "showcase"
+  #      name = "Showcase"
+  #      url = "/showcase"
 
 # And you can even create generic menu
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "posts/"
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name       = "About"
+#    url        = "about/"
+#  [[menu.main]]
+#    identifier = "blog"
+#    name       = "Blog"
+#    url        = "posts/"

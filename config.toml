@@ -13,7 +13,7 @@ theme = "hello-friend-ng"
   keywords = "homepage, blog, science, informatics, development, programming"
   images = [""]
 
-  homeSubtitle = "Computer Networking"
+  homeSubtitle = "Computer Networks"
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"

@@ -13,10 +13,25 @@ theme = "hello-friend-ng"
   keywords = "homepage, blog, science, informatics, development, programming"
   images = [""]
 
+  homeSubtitle = "Computer Networking"
+
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+
+# Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/Rukshani_"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/arukshani"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/arukshani/"
 
 [languages]
   [languages.en]

@@ -3,5 +3,6 @@
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
 [submodule "public"]
 	path = public
-	url = git@github.com:arukshani/arukshani.github.io.git
+	#url = git@github.com:arukshani/arukshani.github.io.git
+	url = https://github.com/arukshani/arukshani.github.io.git
 	branch = master
